@@ -1,0 +1,16 @@
+{
+  "name": "persec2026-web-dev-interview-littichai",
+  "version": "1.0.0",
+  "description": "Pre-interview questions (Web Developer) solved in TypeScript",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "vitest run",
+    "test:watch": "vitest",
+    "typecheck": "tsc --noEmit"
+  },
+  "devDependencies": {
+    "typescript": "^5.6.3",
+    "vitest": "^2.1.8"
+  }
+}
